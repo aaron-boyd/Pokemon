@@ -1,0 +1,20 @@
+Peter
+ 10
+Lois
+ 9
+Chris
+ 8
+Meg
+ 7
+Stewie
+ 6
+Ash
+ 6
+Aaron
+ 6
+Bob
+ 6
+Ash
+ 6
+Brian
+ 5

@@ -1,0 +1,19 @@
+Blastoise
+Water
+210
+Hydro Pump
+Water
+110
+80
+Bite
+Dark
+60
+100
+Dig
+Rock
+60
+100
+Seismic Toss
+Fighting
+55
+80

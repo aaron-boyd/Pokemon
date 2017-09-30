@@ -1,0 +1,19 @@
+Ponyta
+Fire
+190
+Tackle
+Normal
+50
+100
+Ember
+Fire
+40
+100
+Flame Charge
+Fire
+50
+100
+Bounce
+Normal
+80
+85

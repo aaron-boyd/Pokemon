@@ -1,0 +1,19 @@
+Grimer
+Poison
+180
+Pound
+Normal
+40
+100
+Sludge
+Poison
+65
+100
+Sludge Bomb
+Poison
+90
+100
+Mud Bomb
+Rock
+20
+100

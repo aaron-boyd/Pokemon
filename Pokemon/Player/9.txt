@@ -1,0 +1,19 @@
+Poliwhirl
+Water
+165
+Water Gun
+Water
+40
+100
+Double Slap
+Normal
+30
+85
+Hydro Pump
+Water
+80
+80
+Body Slam
+Normal
+60
+100

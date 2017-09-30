@@ -1,0 +1,19 @@
+Nosepass
+Rock
+150
+Smack Down
+Rock
+50
+100
+Rock Tomb
+Rock
+60
+95
+Sone Edge
+Rock
+100
+80
+Thunderbolt
+Electric
+90
+100

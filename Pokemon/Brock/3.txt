@@ -1,0 +1,19 @@
+Omastar
+Rock
+160
+Bind
+Normal
+30
+100
+Water Pulse
+Water
+60
+100
+Earth Power
+Normal
+90
+100
+Snore
+Normal
+70
+85

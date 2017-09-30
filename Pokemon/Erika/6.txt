@@ -1,0 +1,18 @@
+Bellossom
+Grass
+178
+Leaf Storm
+Grass
+130
+70
+Magical Leaf
+60
+100
+Petal Blizzard
+Grass
+90
+100
+Leaf Storm
+Grass
+130
+70

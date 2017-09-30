@@ -1,0 +1,19 @@
+Vaporeon
+Water
+170
+Water Pulse
+Water
+60
+100
+Aurora Beam
+Ice
+65
+100
+Muddy Water
+Water
+80
+85
+Hydro Pump
+Water
+110
+80

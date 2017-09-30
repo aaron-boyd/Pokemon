@@ -1,0 +1,19 @@
+Hitmonchan
+Fighting
+180
+Close Combat
+Fighting
+80
+100
+Revenge
+Fighting
+60
+100
+Feint
+Normal
+30
+100
+Sky Uppercut
+Fighting
+85
+90

@@ -1,0 +1,19 @@
+Machoke
+Fighting
+178
+Karate Chop
+Fighting
+50
+100
+Knock Off
+Fighting
+65
+100
+Wake-Up Slap
+Fighting
+70
+100
+Dual Chop
+Fighting
+40
+90

@@ -1,0 +1,19 @@
+Charmeleon
+Fire
+180
+Ember
+Fire
+40
+100
+Fire Fang
+Fire
+65
+95
+Slash
+Normal
+70
+100
+Flamethrower
+Fire
+90
+100

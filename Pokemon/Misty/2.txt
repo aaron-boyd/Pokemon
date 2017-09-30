@@ -1,0 +1,23 @@
+Horsea
+Water
+160
+Water Gun
+Water
+40
+100
+Bubble Beam
+Water
+65
+100
+Twister
+Dragon
+40
+100
+Dragon Pulse
+Dragon
+85
+100
+Hydro Pump
+Water
+110
+80

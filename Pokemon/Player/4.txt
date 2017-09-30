@@ -1,0 +1,18 @@
+Geodude
+Rock
+145
+Rollout
+Rock
+30
+90
+Tackle
+Normal
+50
+100
+Rock Blast
+Rock
+25
+Bulldoze
+Rock
+60
+100

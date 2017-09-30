@@ -1,0 +1,19 @@
+Kabutops
+Rock
+160
+Feint
+Normal
+30
+100
+Ancient Power
+Rock
+60
+100
+Night Slash
+Dark
+70
+100
+Aqua Jet
+Water
+40
+100

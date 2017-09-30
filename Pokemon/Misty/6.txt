@@ -1,0 +1,19 @@
+Seel
+Water
+180
+Blizzard
+Ice
+55
+95
+Rest
+Psychic
+40
+100
+Take Down
+Normal
+50
+100
+Surf
+Water
+40
+100

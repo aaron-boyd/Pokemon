@@ -1,0 +1,19 @@
+Arcanine
+Fire
+200
+Fire Fang
+Fire
+65
+95
+Rock Smash
+Fighting
+40
+40
+Incinerate
+Fire
+60
+100
+Flame Charge
+Fire
+50
+100

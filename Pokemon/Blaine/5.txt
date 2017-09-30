@@ -1,0 +1,19 @@
+NineTales
+Fire
+186
+Flamethrower
+Fire
+90
+100
+Dream Eater
+Psychic
+100
+100
+Flame Charge
+Fire
+50
+100
+Overheat
+Fire
+130
+50

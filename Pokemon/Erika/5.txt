@@ -1,0 +1,19 @@
+Vileplume
+Grass
+150
+Petal Blizzard
+Grass
+90
+100
+Petal Dance
+Grass
+120
+80
+Solor Beam 
+Grass
+120
+80
+Sludge Bomb
+Poison
+90
+100

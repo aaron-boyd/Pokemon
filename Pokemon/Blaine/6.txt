@@ -1,0 +1,19 @@
+Rapidash
+Fire
+150
+Ember
+Fire
+40
+100
+Fire Fang
+Fire
+65
+85
+Megahorn
+Bug
+120
+85
+Flamethrower
+Fire
+90
+100

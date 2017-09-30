@@ -1,0 +1,19 @@
+Starmie
+Water
+200
+Thunder
+Electric
+110
+60
+Thunder Wave
+Electric
+0
+100
+Swift
+Normal
+60
+100
+Bubble Beam
+Water
+60
+100

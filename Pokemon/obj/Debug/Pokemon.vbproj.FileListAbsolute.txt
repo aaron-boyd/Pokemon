@@ -1,0 +1,28 @@
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\bin\Debug\Pokemon.xml
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.Form2.resources
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.Form3.resources
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.Resources.resources
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.vbproj.GenerateResource.Cache
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.xml
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.vbprojResolveAssemblyReference.cache
+D:\School\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.Form4.resources
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.xml
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\bin\Debug\Pokemon.xml
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.vbprojResolveAssemblyReference.cache
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.Form2.resources
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.Form3.resources
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.Form4.resources
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.Resources.resources
+D:\School\Computer Science\Computer Programming II\VB.Net Projects\Pokemon\Pokemon\obj\Debug\Pokemon.vbproj.GenerateResource.Cache

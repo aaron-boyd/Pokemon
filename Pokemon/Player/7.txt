@@ -1,0 +1,19 @@
+Electabuzz
+Electric
+159
+Thundershock
+Electric
+40
+100
+Shock Wave
+Electric
+60
+100
+Quick Attack
+Normal
+40
+100
+Thunderpunch
+Electric
+85
+100

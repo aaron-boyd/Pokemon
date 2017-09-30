@@ -1,0 +1,19 @@
+Bulbasaur
+Grass
+168
+Vine Whip
+Grass
+45
+100
+Razor Leaf
+Grass
+55
+95
+Take Down
+Normal
+90
+85
+Tackle
+Normal
+50
+100

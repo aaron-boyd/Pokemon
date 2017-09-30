@@ -1,0 +1,62 @@
+Charmeleon
+58
+Ember
+40
+Fire Fang
+65
+Slash
+70
+Flamethrower
+90
+NineTales
+73
+Flamethrower
+90
+Dream Eater
+100
+Flame Charge
+50
+Overheat
+130
+Arcanine
+90
+Fire Fang
+65
+Rock Smash
+40
+Incinerate
+60
+Flame Charge
+50
+Flamethrower
+90
+Flareon
+65
+Fire Fang
+65
+Rock Smash
+40
+Incinerate
+60
+Flame Charge
+50
+Rapidash
+65
+Ember
+40
+Fire Fang
+65
+Slash
+70
+Flamethrower
+90
+Magmar
+65
+Flamethrower
+90
+Dream Eater
+100
+Flame Charge
+50
+Overheat
+130

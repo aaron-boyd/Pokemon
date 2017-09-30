@@ -1,0 +1,18 @@
+Onix
+Rock
+199
+Rock Throw
+Rock
+50
+90
+Rock Tomb
+Rock
+60
+95
+Smack Down
+Rock
+50
+100
+Stone Edge
+100
+80

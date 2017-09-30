@@ -1,0 +1,19 @@
+Pinsir
+Bug
+178
+Vice Grip
+Normal
+55
+100
+Revenge
+Fighting
+60
+100
+Storm Throw
+Fighting
+60
+100
+X-Scissor
+Bug
+80
+100

@@ -1,0 +1,19 @@
+Vulpix
+Fire
+196
+Fire Spin
+Fire
+35
+85
+Ember
+Fire
+40
+100
+Quick Attack
+Normal
+40
+100
+Hex
+Ghost
+65
+100

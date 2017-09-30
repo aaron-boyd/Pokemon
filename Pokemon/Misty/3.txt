@@ -1,0 +1,19 @@
+Psyduck
+Water
+150
+Aqua Tail
+Water
+90
+90
+Ice Punch
+Ice
+75
+100
+Signal Beam
+Bug
+75
+100
+Water Pulse
+Water
+60
+100

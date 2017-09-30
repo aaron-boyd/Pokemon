@@ -1,0 +1,19 @@
+Magmar
+Fire
+190
+Flamethrower
+Fire
+90
+100
+Smog
+Poison
+30
+70
+Flame Charge
+Fire
+50
+95
+Overheat
+Fire
+130
+50

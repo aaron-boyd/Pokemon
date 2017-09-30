@@ -1,0 +1,19 @@
+Tangela
+Grass
+190
+Vine Whip
+Grass
+45
+100
+Slam
+Normal
+80
+75
+Knock Off
+Dark
+65
+100
+Power Whip
+Grass
+100
+75

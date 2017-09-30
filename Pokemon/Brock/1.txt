@@ -1,0 +1,19 @@
+Graveler
+Rock
+190
+Stone Edge
+Rock
+100
+80
+Rollout
+Rock
+50
+95
+Earthquake
+Rock
+80
+100
+Rock Slide
+Rock
+80
+90
